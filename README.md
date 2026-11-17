@@ -1,16 +1,17 @@
-## Hi there 👋
+# Aryan Misra
 
-<!--
-**misraaryan/misraaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech Bioinformatics student at Delhi Technological University (DTU), moving into life sciences analytics and consulting.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python (Pandas, NumPy, Biopython) · molecular docking and ADMET screening (AutoDock, PyMOL, SwissADME) · genomics and omics data · healthcare and pharma data
+
+### Background
+
+- B.Tech Biotechnology, Lovely Professional University. Thesis: machine learning (SVM, neural networks) for colorectal cancer detection, with docking of neem phytochemicals against KRAS.
+- Co-author, *Marine Microbiomes and Biogeochemical Cycles*, CRC Press (Taylor & Francis), 2026.
+- GATE 2025 Biotechnology, AIR 1894.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/misraaryan) · aryanmisra23@gmail.com
